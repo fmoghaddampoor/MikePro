@@ -1,0 +1,38 @@
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.cache
+
+# VS Code
+.vscode/
+
+# Visual Studio
+.vs/
+
+# Build artifacts
+*.exe
+*.dll
+*.pdb
+
+# Logs
+*.log
+debug.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Python
+__pycache__/
+*.pyc
+
+# NAudio temp files
+*.wav
+
+# Others
+nul
